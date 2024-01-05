@@ -49,3 +49,36 @@ Object
 camel case -> myName
 Pascal case -> MyName
 snace case -> my_name
+
+
+
+## 2 - Dars
+
+
+- Numbers:
+
+let length = 16;
+
+let weight = 7.5;
+
+-  Strings:
+
+let color = "Yellow";
+
+let lastName = "Johnson";
+
+- Booleans
+
+let 1 = true;
+
+let 0 = false;
+
+- Undefined
+
+let undef
+
+- Null
+
+let a = null
+
+
